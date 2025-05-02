@@ -42,7 +42,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/naynay111222333/BrandrdXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/naynay1112221/MMMusic/blob/master/sample.env)
 ---
 
 ### 🔧 Quick Setup
@@ -66,7 +66,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/naynay111222333/BrandrdXMusic && cd BrandrdXMusic
+   git clone https://github.com/naynay1112221/MMMusic && cd BrandrdXMusic
    ```
 6. **Install Requirements**
    ```bash
